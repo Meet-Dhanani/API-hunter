@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Meet",
+      "email": "meet@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Jay ",
+      "email": "jai@gmail.com"
+    },
+    {
+      "name": "Ayush ",
+      "email": "ayush@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "r up",
+      "email": "r@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jay up",
+      "email": "r@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Avit",
+      "email": "r@gmail.com",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
